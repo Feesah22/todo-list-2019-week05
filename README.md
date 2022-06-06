@@ -4,15 +4,14 @@
 
 ### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+# Language Used HTML, JavaScript , CSS 
+
+<img width="320" alt="todo" src="https://user-images.githubusercontent.com/101997718/172076166-e21e89df-0fc3-4a15-8413-b2f727560a26.png">
+
+LESSON LEARNED
+__________________________________
+
+Used CSS to style the todo List , HTML to organize the text. I used JavaScript to function the toDo list. The to do List organization helps track everyday task. It allows you to delete your mistakes and count how many task you have to do. It toggles (crossout) the list when task is complete and also take away from the total count. 
 
 Example:
 ```
